@@ -3,7 +3,7 @@
 - 🌱 Currently learning about ways to combine evo methods & RL
 - 💞️ Looking to collaborate on machine learning projects related to reward hacking + explainability
 - 📫 p.rivet@outlook.com
-- 🌏 Website in development
+- 🌏 philipperivet.ca
 
 <!---
 phiriv/phiriv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
